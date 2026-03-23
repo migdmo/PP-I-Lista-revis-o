@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Time {
     private int id;
     private String nome, tecnico;
-    ArrayList<Atleta> atletas;
+    private ArrayList<Atleta> atletas;
 
     public Time() {
     }
